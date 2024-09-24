@@ -34,3 +34,7 @@ console.log(url.includes('petrosky'))
 console.log(url.includes('yoyo'))
 
 console.log(gameId.split('-'))
+
+const newStringtwo = " YOLO 1"
+console.log(newStringtwo);
+console.log(newStringtwo.padEnd(10, '.'));
