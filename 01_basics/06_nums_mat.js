@@ -20,3 +20,4 @@ console.log(Math.abs(-3));
 console.log(Math.round(4.3));
 console.log(Math.floor(4.9));
 console.log(Math.ceil(4.5));
+console.log(Math.max(4, 6 , 8 , 8.1));
